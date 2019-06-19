@@ -3,24 +3,22 @@
     "dc:bibliographicCitation": "Chacon, Thiago C. (2017): Arawakan and Tukanoan contacts in Northwest Amazonia prehistory. PAPIA 27(2). 237-265.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "https://github.com/lexibank/chaconcolombian/",
-    "dc:license": [
-        "GPL-3.0",
-        "GNU General Public License v3.0 only",
-        "http://www.opensource.org/licenses/GPL-3.0"
-    ],
+    "dc:license": "http://www.opensource.org/licenses/GPL-3.0",
     "dc:source": "sources.bib",
     "dc:title": "Arawakan and Tukanoan contacts in Northwest Amazonia prehistory",
+    "dcat:accessURL": "https://github.com/lexibank/chaconcolumbian",
     "rdf:ID": "chaconcolumbian",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
     "notes": [
         {
+            "dc:title": "environment",
             "properties": {
-                "concepticon_version": "pyconcepticon-1.4.0-3-g5184141",
-                "glottolog_version": "v3.2-87-g800df1f"
-            },
-            "dc:title": "environment"
+                "glottolog_version": "pyglottolog-1.2.1-60-gf46bb64",
+                "concepticon_version": "pyconcepticon-1.4.0-39-g121e0c7"
+            }
         }
     ],
     "tables": [
@@ -167,7 +165,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 129,
+            "dc:extent": 128,
             "tableSchema": {
                 "columns": [
                     {
@@ -207,7 +205,7 @@
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "integer",
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
                     },

@@ -20,6 +20,7 @@ class HConcept(Concept):
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
+    id = 'chaconcolumbian'
     concept_class = HConcept
 
     def cmd_install(self, **kw):
