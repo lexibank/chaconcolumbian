@@ -1,12 +1,15 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
+    "aboutUrl": null,
     "dc:bibliographicCitation": "Chacon, Thiago C. (2017): Arawakan and Tukanoan contacts in Northwest Amazonia prehistory. PAPIA 27(2). 237-265.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": null,
     "dc:identifier": "https://github.com/lexibank/chaconcolombian/",
+    "dc:isVersionOf": null,
     "dc:license": "http://www.opensource.org/licenses/GPL-3.0",
+    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Arawakan and Tukanoan contacts in Northwest Amazonia prehistory",
-    "dcat:accessURL": "https://github.com/lexibank/chaconcolumbian",
     "rdf:ID": "chaconcolumbian",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -16,8 +19,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "pyglottolog-1.2.1-60-gf46bb64",
-                "concepticon_version": "pyconcepticon-1.4.0-39-g121e0c7"
+                "glottolog_version": "v4.0",
+                "concepticon_version": "v2.1.0-21-g3f9e1f3"
             }
         }
     ],
@@ -51,7 +54,7 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": true,
                         "name": "Value"
                     },
@@ -151,6 +154,26 @@
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
                         "name": "Macroarea"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -90,
+                            "maximum": 90
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -180,
+                            "maximum": 180
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
                     },
                     {
                         "datatype": "string",

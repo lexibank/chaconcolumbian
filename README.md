@@ -11,7 +11,7 @@ Available online at https://github.com/lexibank/chaconcolombian/
 ## Statistics
 
 
-
+[![Build Status](https://travis-ci.org/None.svg?branch=master)](https://travis-ci.org/None)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 98%](https://img.shields.io/badge/Concepticon-98%25-green.svg "Concepticon: 98%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -22,8 +22,9 @@ Available online at https://github.com/lexibank/chaconcolombian/
 - **Concepts:** 128
 - **Lexemes:** 9,030
 - **Synonymy:** 1.14
-- **Cognacy:** 7,736 cognates in 1,306 cognate sets
+- **Cognacy:** 9,030 cognates in 2,600 cognate sets (1,294 singletons)
+- **Cognate Diversity:** 0.28
 - **Invalid lexemes:** 0
 - **Tokens:** 45,528
-- **Segments:** 164 (34 BIPA errors, 34 CTLS sound class errors, 200 CLTS modified)
+- **Segments:** 164 (34 BIPA errors, 34 CTLS sound class errors, 130 CLTS modified)
 - **Inventory size (avg):** 31.55
