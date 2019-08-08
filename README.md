@@ -8,6 +8,9 @@ This dataset is licensed under a GPL-3.0 license
 
 Available online at https://github.com/lexibank/chaconcolombian/
 
+Conceptlists in Concepticon:
+- [Chacon-2017-129](http://concepticon.clld.org/contributions/Chacon-2017-129)
+
 ## Statistics
 
 

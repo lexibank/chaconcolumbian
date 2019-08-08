@@ -8,41 +8,45 @@ from pylexibank.util import pb
 
 
 @attr.s
-class HConcept(Concept):
-    Spanish_Gloss = attr.ib(default=None)
+class ChaconColConcept(Concept):
+    Spanish = attr.ib(default=None)
+    Category = attr.ib(default=None)
+    Gloss_in_source = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "chaconcolumbian"
-    concept_class = HConcept
+    concept_class = ChaconColConcept
 
     def cmd_install(self, **kw):
         # column "counterpart_doculect" gives us the proper names of the doculects
         wl = lingpy.Wordlist(self.raw.posix("Huber_filtered_130_basic_cult_voc"))
 
         with self.cldf as ds:
+            concepts = {}
             ds.add_sources(*self.raw.read_bib())
 
             for l in self.languages:
                 ds.add_language(ID=slug(l["Name"]), Name=l["Name"], Glottocode=l["Glottocode"])
 
-            for c in self.concepts:
+            for concept in self.conceptlist.concepts.values():
                 ds.add_concept(
-                    ID=slug(c["GLOSS_IN_SOURCE"]),
-                    Name=c["ENGLISH"],
-                    Concepticon_ID=c["CONCEPTICON_ID"] or "",
-                    Spanish_Gloss=c["SPANISH"],
+                    ID=concept.id,
+                    Name=concept.english,
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss,
+                    Spanish=concept.attributes["spanish"],
+                    Gloss_in_source=concept.attributes["gloss_in_source"],
+                    Category=concept.attributes["category"],
                 )
-
-            # specify valid entries in the data
-            valid_entries = [c["GLOSS_IN_SOURCE"] for c in self.concepts]
+                concepts[slug(concept.attributes["gloss_in_source"])] = concept.id
 
             for k in pb(wl, desc="wl-to-cldf"):
-                if wl[k, "concept"] in valid_entries:
+                if wl[k, "concept"]:
                     for row in ds.add_lexemes(
                         Language_ID=slug(wl[k, "doculect"]),
-                        Parameter_ID=slug(wl[k, "concept"]),
+                        Parameter_ID=concepts[slug(wl[k, "concept"])],
                         Value=wl[k, "counterpart"],
                         Form=wl[k, "counterpart"],
                         Segments=wl[k, "tokens"],
