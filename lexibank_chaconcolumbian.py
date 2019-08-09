@@ -48,7 +48,6 @@ class Dataset(BaseDataset):
                         Language_ID=slug(wl[k, "doculect"]),
                         Parameter_ID=concepts[slug(wl[k, "concept"])],
                         Value=wl[k, "counterpart"],
-                        Form=wl[k, "counterpart"],
                         Segments=wl[k, "tokens"],
                         Source="Huber1992",
                     ):
