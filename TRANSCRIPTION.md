@@ -186,107 +186,107 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:---------------------------------|:-----------|:--------------------|:---------------|:--------------------------------------------|
-| awa-Chacon-2017-129-128-1 | awa | Chacon-2017-129-128 | ti̵ | t <s> i̵ </s> |
-| awa-Chacon-2017-129-2-1 | awa | Chacon-2017-129-2 | pĩ̵ | p <s> ĩ̵ </s> |
-| bara-Chacon-2017-129-1-1 | bara | Chacon-2017-129-1 | bũbĩãbĩ̵ | b ũ b ĩ ã b <s> ĩ̵ </s> |
-| bara-Chacon-2017-129-128-1 | bara | Chacon-2017-129-128 | juki̵gi̵ | j u k <s> i̵ </s> g <s> i̵ </s> |
-| barasana-Chacon-2017-129-1-1 | barasana | Chacon-2017-129-1 | hõbĩãbĩ̵ | h õ b ĩ ã b <s> ĩ̵ </s> |
-| barasana-Chacon-2017-129-1-2 | barasana | Chacon-2017-129-1 | beroabi̵ki̵ | b e r o a b <s> i̵ </s> k <s> i̵ </s> |
-| barasana-Chacon-2017-129-1-3 | barasana | Chacon-2017-129-1 | beroabĩ̵ | b e r o a b <s> ĩ̵ </s> |
-| barasana-Chacon-2017-129-128-1 | barasana | Chacon-2017-129-128 | jukí̵ | j u k <s> i̵ </s> |
-| barasana-Chacon-2017-129-7-1 | barasana | Chacon-2017-129-7 | ji̵tá | j <s> i̵ </s> t a |
-| bora-Chacon-2017-129-4-1 | bora | Chacon-2017-129-4 | pi̵rɯ́mɯxi̵ | p <s> i̵ </s> r ɯ m ɯ x <s> i̵ </s> |
-| bora-Chacon-2017-129-6-1 | bora | Chacon-2017-129-6 | ti̵í̵ | t <s> i̵i̵ </s> |
-| bora-Chacon-2017-129-6-2 | bora | Chacon-2017-129-6 | tí̵í̵ʔoɯ | t <s> i̵i̵ </s> ʔ o ɯ |
-| bora-Chacon-2017-129-8-1 | bora | Chacon-2017-129-8 | tóótʰoɯ́ʔaamí̵ne | t oo tʰ o ɯ ʔ aa m <s> i̵ </s> n e |
-| bora-Chacon-2017-129-8-2 | bora | Chacon-2017-129-8 | kʰáápʰí̵naɯ | kʰ aa pʰ <s> i̵ </s> n a ɯ |
-| carapana-Chacon-2017-129-1-1 | carapana | Chacon-2017-129-1 | beroábĩ̵ | b e r o a b <s> ĩ̵ </s> |
-| carapana-Chacon-2017-129-128-1 | carapana | Chacon-2017-129-128 | júkí̵ | j u k <s> i̵ </s> |
-| carijona-Chacon-2017-129-7-1 | carijona | Chacon-2017-129-7 | maᵘru | m <s> aᵘ </s> r u |
-| cubeo-Chacon-2017-129-1-1 | cubeo | Chacon-2017-129-1 | bũbĩ́di̵ | b ũ b ĩ d <s> i̵ </s> |
-| cubeo-Chacon-2017-129-1-2 | cubeo | Chacon-2017-129-1 | kaidẽ́di̵ | k a i d ẽ d <s> i̵ </s> |
-| cubeo-Chacon-2017-129-128-1 | cubeo | Chacon-2017-129-128 | hokí̵ki̵ | h o k <s> i̵ </s> k <s> i̵ </s> |
-| cubeo-Chacon-2017-129-4-1 | cubeo | Chacon-2017-129-4 | buí̵ | b u <s> i̵ </s> |
-| cubeo-Chacon-2017-129-7-1 | cubeo | Chacon-2017-129-7 | ji̵íbẽ́ | j <s> i̵ </s> i b ẽ |
-| cubeo-Chacon-2017-129-8-1 | cubeo | Chacon-2017-129-8 | pãbṹri̵ | p ã b ũ r <s> i̵ </s> |
-| cubeo-Chacon-2017-129-9-1 | cubeo | Chacon-2017-129-9 | ũkṹjĩ̵ | ũ k ũ j <s> ĩ̵ </s> |
-| cuiba-Chacon-2017-129-4-1 | cuiba | Chacon-2017-129-4 | bi̵n | b <s> i̵ </s> n |
-| desano-Chacon-2017-129-1-1 | desano | Chacon-2017-129-1 | bõbẽ́bĩ̵ | b õ b ẽ b <s> ĩ̵ </s> |
-| desano-Chacon-2017-129-128-1 | desano | Chacon-2017-129-128 | juki̵gí̵ | j u k <s> i̵ </s> g <s> i̵ </s> |
-| dimina-Chacon-2017-129-1-1 | dimina | Chacon-2017-129-1 | ni̵nga | n <s> i̵ </s> n g a |
-| dimina-Chacon-2017-129-128-1 | dimina | Chacon-2017-129-128 | ki̵n | k <s> i̵ </s> n |
-| guahibo-Chacon-2017-129-1-1 | guahibo | Chacon-2017-129-1 | ha:bi̵máni̵to | h a: b <s> i̵ </s> m a n <s> i̵ </s> t o |
-| guahibo-Chacon-2017-129-1-2 | guahibo | Chacon-2017-129-1 | banamani̵to | b a n a m a n <s> i̵ </s> t o |
-| guahibo-Chacon-2017-129-4-1 | guahibo | Chacon-2017-129-4 | bí̵ni̵ | b <s> i̵ </s> n <s> i̵ </s> |
-| guahibo-Chacon-2017-129-7-1 | guahibo | Chacon-2017-129-7 | papai̵putáto | p a p a <s> i̵ </s> p u t a t o |
-| guahibo-Chacon-2017-129-7-2 | guahibo | Chacon-2017-129-7 | papái̵nae | p a p a <s> i̵ </s> n a e |
-| guahibo-Chacon-2017-129-8-1 | guahibo | Chacon-2017-129-8 | tuhúbi̵ | t u h u b <s> i̵ </s> |
-| guambiano-Chacon-2017-129-6-1 | guambiano | Chacon-2017-129-6 | ki̵ri̵ | k <s> i̵ </s> r <s> i̵ </s> |
-| guambiano-Chacon-2017-129-8-1 | guambiano | Chacon-2017-129-8 | ɕuli̵ | ɕ u l <s> i̵ </s> |
-| guayabero-Chacon-2017-129-1-1 | guayabero | Chacon-2017-129-1 | hi̵at | h <s> i̵ </s> a t |
-| guayabero-Chacon-2017-129-4-1 | guayabero | Chacon-2017-129-4 | bi̵l | b <s> i̵ </s> l |
-| ika-Chacon-2017-129-6-1 | ika | Chacon-2017-129-6 | néⁱwi̵ | n <s> eⁱ </s> w <s> i̵ </s> |
-| ika-Chacon-2017-129-7-1 | ika | Chacon-2017-129-7 | únki̵ | u n k <s> i̵ </s> |
-| ika-Chacon-2017-129-8-1 | ika | Chacon-2017-129-8 | ʤukrúmi̵ | ʤ u k r u m <s> i̵ </s> |
-| jitnu-Chacon-2017-129-4-1 | jitnu | Chacon-2017-129-4 | bi̵n | b <s> i̵ </s> n |
-| kakua-Chacon-2017-129-4-1 | kakua | Chacon-2017-129-4 | bĩ̵ʔ³ | b <s> ĩ̵ </s> ʔ |
-| kamsa-Chacon-2017-129-2-1 | kamsa | Chacon-2017-129-2 | mandorí̵ʃa | m a n d o r <s> i̵ </s> ʃ a |
-| kamsa-Chacon-2017-129-6-1 | kamsa | Chacon-2017-129-6 | tsi̵tɕá | ts <s> i̵ </s> t ɕ a |
-| koreguaje-Chacon-2017-129-128-1 | koreguaje | Chacon-2017-129-128 | sũkʰiɲi̵ | s ũ kʰ i ɲ <s> i̵ </s> |
-| koreguaje-Chacon-2017-129-4-1 | koreguaje | Chacon-2017-129-4 | βi̵i̵ | β <s> i̵i̵ </s> |
-| koreguaje-Chacon-2017-129-7-1 | koreguaje | Chacon-2017-129-7 | ʤi̵i | ʤ <s> i̵ </s> i |
-| macuna-Chacon-2017-129-1-1 | macuna | Chacon-2017-129-1 | beroabi̵ki̵ | b e r o a b <s> i̵ </s> k <s> i̵ </s> |
-| macuna-Chacon-2017-129-128-1 | macuna | Chacon-2017-129-128 | juki̵ | j u k <s> i̵ </s> |
-| macuna-Chacon-2017-129-7-1 | macuna | Chacon-2017-129-7 | ji̵ta | j <s> i̵ </s> t a |
-| mirana-Chacon-2017-129-6-1 | mirana | Chacon-2017-129-6 | tí̵í̵ʔoɯ | t <s> i̵i̵ </s> ʔ o ɯ |
-| muinane-Chacon-2017-129-1-1 | muinane | Chacon-2017-129-1 | mí̵i̵bi̵riʔi̵ | m <s> i̵i̵ </s> b <s> i̵ </s> r i ʔ <s> i̵ </s> |
-| muinane-Chacon-2017-129-1-2 | muinane | Chacon-2017-129-1 | ní̵í̵bi̵ri | n <s> i̵i̵ </s> b <s> i̵ </s> r i |
-| muinane-Chacon-2017-129-128-1 | muinane | Chacon-2017-129-128 | í̵moʔo | <s> i̵ </s> m o ʔ o |
-| muinane-Chacon-2017-129-3-2 | muinane | Chacon-2017-129-3 | ní̵ɸáíʔu | n <s> i̵ </s> ɸ a i ʔ u |
-| muinane-Chacon-2017-129-3-3 | muinane | Chacon-2017-129-3 | ní̵ɸaiʔu | n <s> i̵ </s> ɸ a i ʔ u |
-| muinane-Chacon-2017-129-4-1 | muinane | Chacon-2017-129-4 | ɸáti̵ | ɸ a t <s> i̵ </s> |
-| muinane-Chacon-2017-129-5-1 | muinane | Chacon-2017-129-5 | bákotami̵ | b a k o t a m <s> i̵ </s> |
-| muinane-Chacon-2017-129-6-1 | muinane | Chacon-2017-129-6 | dééʔui̵ | d ee ʔ u <s> i̵ </s> |
-| muinane-Chacon-2017-129-8-1 | muinane | Chacon-2017-129-8 | góói̵ | g oo <s> i̵ </s> |
-| nukak-Chacon-2017-129-128-1 | nukak | Chacon-2017-129-128 | ti̵naʔ⁴ | t <s> i̵ </s> n a ʔ |
-| orejon-Chacon-2017-129-7-1 | orejon | Chacon-2017-129-7 | ji̵i | j <s> i̵ </s> i |
-| piratapuyo-Chacon-2017-129-1-1 | piratapuyo | Chacon-2017-129-1 | ubĩkĩ̵dĩ̵ | u b ĩ k <s> ĩ̵ </s> d <s> ĩ̵ </s> |
-| piratapuyo-Chacon-2017-129-128-1 | piratapuyo | Chacon-2017-129-128 | juki̵gi̵ | j u k <s> i̵ </s> g <s> i̵ </s> |
-| playero-Chacon-2017-129-1-1 | playero | Chacon-2017-129-1 | banamí̵to | b a n a m <s> i̵ </s> t o |
-| playero-Chacon-2017-129-4-1 | playero | Chacon-2017-129-4 | bi̵ní̵ | b <s> i̵ </s> n <s> i̵ </s> |
-| playero-Chacon-2017-129-6-1 | playero | Chacon-2017-129-6 | peatʰítʰíbi̵ | p e a tʰ i tʰ i b <s> i̵ </s> |
-| puinave-Chacon-2017-129-3-1 | puinave | Chacon-2017-129-3 | i̵t | <s> i̵ </s> t |
-| secoya-Chacon-2017-129-128-1 | secoya | Chacon-2017-129-128 | sõki̵jĩ̵ | s õ k <s> i̵ </s> j <s> ĩ̵ </s> |
-| secoya-Chacon-2017-129-4-1 | secoya | Chacon-2017-129-4 | wi̵ | w <s> i̵ </s> |
-| siona-Chacon-2017-129-128-1 | siona | Chacon-2017-129-128 | sũkijĩ̵ | s ũ k i j <s> ĩ̵ </s> |
-| siona-Chacon-2017-129-4-1 | siona | Chacon-2017-129-4 | wi̵ | w <s> i̵ </s> |
-| siona-Chacon-2017-129-7-1 | siona | Chacon-2017-129-7 | ji̵i | j <s> i̵ </s> i |
-| siriano-Chacon-2017-129-1-2 | siriano | Chacon-2017-129-1 | beʔróabĩ̵ | b e ʔ r o a b <s> ĩ̵ </s> |
-| siriano-Chacon-2017-129-128-1 | siriano | Chacon-2017-129-128 | jukí̵gi̵ | j u k <s> i̵ </s> g <s> i̵ </s> |
-| tatuyo-Chacon-2017-129-1-1 | tatuyo | Chacon-2017-129-1 | béróábĩ̵ | b e r o a b <s> ĩ̵ </s> |
-| tatuyo-Chacon-2017-129-128-1 | tatuyo | Chacon-2017-129-128 | júkí̵ | j u k <s> i̵ </s> |
-| totoro-Chacon-2017-129-1-1 | totoro | Chacon-2017-129-1 | pi̵li̵m miel | p <s> i̵ </s> l <s> i̵ </s> m |
-| totoro-Chacon-2017-129-6-1 | totoro | Chacon-2017-129-6 | ki̵ri̵ | k <s> i̵ </s> r <s> i̵ </s> |
-| totoro-Chacon-2017-129-8-1 | totoro | Chacon-2017-129-8 | ɕoli̵ | ɕ o l <s> i̵ </s> |
-| totoro-Chacon-2017-129-9-1 | totoro | Chacon-2017-129-9 | mutsi̵p | m u ts <s> i̵ </s> p |
-| tucano-Chacon-2017-129-1-1 | tucano | Chacon-2017-129-1 | bũbĩã́wĩ̵ | b ũ b ĩ ã w <s> ĩ̵ </s> |
-| tucano-Chacon-2017-129-128-1 | tucano | Chacon-2017-129-128 | jukí̵gi̵ | j u k <s> i̵ </s> g <s> i̵ </s> |
-| tuyuca-Chacon-2017-129-1-1 | tuyuca | Chacon-2017-129-1 | bũbĩ́ãwĩ̵ | b ũ b ĩ ã w <s> ĩ̵ </s> |
-| tuyuca-Chacon-2017-129-128-1 | tuyuca | Chacon-2017-129-128 | jukí̵gi̵ | j u k <s> i̵ </s> g <s> i̵ </s> |
-| waimaja-Chacon-2017-129-1-1 | waimaja | Chacon-2017-129-1 | beroabĩ̵ | b e r o a b <s> ĩ̵ </s> |
-| waimaja-Chacon-2017-129-1-2 | waimaja | Chacon-2017-129-1 | utiábĩ̵ | u t i a b <s> ĩ̵ </s> |
-| waimaja-Chacon-2017-129-128-1 | waimaja | Chacon-2017-129-128 | júkí̵gi̵ | j u k <s> i̵ </s> g <s> i̵ </s> |
-| waimaja-Chacon-2017-129-7-2 | waimaja | Chacon-2017-129-7 | ji̵tá | j <s> i̵ </s> t a |
-| wanano-Chacon-2017-129-128-1 | wanano | Chacon-2017-129-128 | juki̵ki̵ | j u k <s> i̵ </s> k <s> i̵ </s> |
-| wanano-Chacon-2017-129-2-1 | wanano | Chacon-2017-129-2 | bãsĩ sõʔã | b ã s ĩ <s> #s </s> õ ʔ ã |
-| wayuu-Chacon-2017-129-3-1 | wayuu | Chacon-2017-129-3 | wí̵in | w <s> i̵ </s> i n |
-| wayuu-Chacon-2017-129-7-1 | wayuu | Chacon-2017-129-7 | máawi̵i | m aa w <s> i̵ </s> i |
-| wayuu-Chacon-2017-129-8-1 | wayuu | Chacon-2017-129-8 | kerí̵ | k e r <s> i̵ </s> |
-| yukpa-Chacon-2017-129-1-1 | yukpa | Chacon-2017-129-1 | émi̵ | e m <s> i̵ </s> |
-| yukpa-Chacon-2017-129-1-2 | yukpa | Chacon-2017-129-1 | mĩ̵káma | m <s> ĩ̵ </s> k a m a |
-| yuruti-Chacon-2017-129-1-1 | yuruti | Chacon-2017-129-1 | bṍõbĩãwĩ̵ | b õõ b ĩ ã w <s> ĩ̵ </s> |
-| yuruti-Chacon-2017-129-128-1 | yuruti | Chacon-2017-129-128 | jukí̵gi̵ | j u k <s> i̵ </s> g <s> i̵ </s> |
+|:-----------------------------|:-----------|:---------------------|:-----------------|:----------------------------------------------|
+| bora-53_lengua-1 | bora | 53_lengua | ní̵í̵xi̵kʷa | n <s> i̵i̵ </s> x <s> i̵ </s> kʷ a |
+| bora-73_oreja-1 | bora | 73_oreja | nɯ́ɯ́mi̵ʔo | n ɯɯ m <s> i̵ </s> ʔ o |
+| cabiyari-84_pescado-1 | cabiyari | 84_pescado | ʔulle | ʔ u <s> ll </s> e |
+| ika-73_oreja-1 | ika | 73_oreja | kúkkwi̵ | k u kk w <s> i̵ </s> |
+| kamsa-103_serpienteculebra-1 | kamsa | 103_serpienteculebra | mi̵tɕkuáje | m <s> i̵ </s> t ɕ k u a j e |
+| kamsa-105_sonajeromaraca-1 | kamsa | 105_sonajeromaraca | marakí̵ʃe | m a r a k <s> i̵ </s> ʃ e |
+| kamsa-108_tambor-1 | kamsa | 108_tambor | ɕi̵nxanabé | ɕ <s> i̵ </s> n x a n a b e |
+| kamsa-109_techo-1 | kamsa | 109_techo | tsí̵xnaɲe | ts <s> i̵ </s> x n a ɲ e |
+| kamsa-115_trocha-1 | kamsa | 115_trocha | axʃaʧni̵xníɲe | a x ʃ a ʧ n <s> i̵ </s> x n i ɲ e |
+| kamsa-119_ustedes-1 | kamsa | 119_ustedes | tɕi̵ngabtánga | t ɕ <s> i̵ </s> n g a b t a n g a |
+| kamsa-124_viejo-1 | kamsa | 124_viejo | bi̵tsananá | b <s> i̵ </s> ts a n a n a |
+| kamsa-124_viejo-2 | kamsa | 124_viejo | bi̵tsi̵jéma | b <s> i̵ </s> ts <s> i̵ </s> j e m a |
+| kamsa-126_yuca-1 | kamsa | 126_yuca | bʃendí̵ɕe | b ʃ e n d <s> i̵ </s> ɕ e |
+| kamsa-127_zancudo-1 | kamsa | 127_zancudo | ʃí̵ngnabxa | ʃ <s> i̵ </s> n g n a b x a |
+| kamsa-19_canabrava-1 | kamsa | 19_canabrava | ɕí̵ɕe | ɕ <s> i̵ </s> ɕ e |
+| kamsa-20_cerbatana-1 | kamsa | 20_cerbatana | xuesaní̵ɕa | x u e s a n <s> i̵ </s> ɕ a |
+| kamsa-27_cuchillo-1 | kamsa | 27_cuchillo | kuʧiljí̵bxa | k u ʧ i l j <s> i̵ </s> b x a |
+| kamsa-28_cuerno-1 | kamsa | 28_cuerno | tsi̵txoní̵ɕe | ts <s> i̵ </s> t x o n <s> i̵ </s> ɕ e |
+| kamsa-2_achiotebija-1 | kamsa | 2_achiotebija | mandorí̵ʃa | m a n d o r <s> i̵ </s> ʃ a |
+| kamsa-30_danta-1 | kamsa | 30_danta | bi̵tsijá | b <s> i̵ </s> ts i j a |
+| kamsa-35_flecha-1 | kamsa | 35_flecha | pleʧi̵bxuá | p l e ʧ <s> i̵ </s> b x u a |
+| kamsa-41_hamaca-1 | kamsa | 41_hamaca | uxonjaní̵ʃa | u x o n j a n <s> i̵ </s> ʃ a |
+| kamsa-51_lanza-1 | kamsa | 51_lanza | lantsí̵ʃa | l a n ts <s> i̵ </s> ʃ a |
+| kamsa-68_niguapigue-1 | kamsa | 68_niguapigue | tsi̵txóna | ts <s> i̵ </s> t x o n a |
+| kamsa-6_aji-1 | kamsa | 6_aji | tsi̵tɕá | ts <s> i̵ </s> t ɕ a |
+| kamsa-72_ojo-1 | kamsa | 72_ojo | bɕni̵bé | b ɕ n <s> i̵ </s> b e |
+| kamsa-74_orejeraarete-1 | kamsa | 74_orejeraarete | wamatsaxonjaní̵ʃa | w a m a ts a x o n j a n <s> i̵ </s> ʃ a |
+| kamsa-77_pacaguaguamajas-1 | kamsa | 77_pacaguaguamajas | mí̵maɕe | m <s> i̵ </s> m a ɕ e |
+| kamsa-79_pantano-1 | kamsa | 79_pantano | xati̵ʃáɲe | x a t <s> i̵ </s> ʃ a ɲ e |
+| kamsa-85_picaflorcolibri-1 | kamsa | 85_picaflorcolibri | ngi̵ntsiána | n g <s> i̵ </s> n ts i a n a |
+| kamsa-86_piedra-1 | kamsa | 86_piedra | ndi̵tɕbé | n d <s> i̵ </s> t ɕ b e |
+| kamsa-88_piojo-1 | kamsa | 88_piojo | mi̵tsána | m <s> i̵ </s> ts a n a |
+| kamsa-89_pluma-1 | kamsa | 89_pluma | plumi̵bxuá | p l u m <s> i̵ </s> b x u a |
+| kamsa-90_platano-1 | kamsa | 90_platano | blandí̵tɕa | b l a n d <s> i̵ </s> t ɕ a |
+| kamsa-94_red-1 | kamsa | 94_red | ataʒají̵ʃa | a t a ʒ a j <s> i̵ </s> ʃ a |
+| mirana-101_sementerademaiz-1 | mirana | 101_sementerademaiz | ɯ́hi̵pʰáʧi | ɯ h <s> i̵ </s> pʰ a ʧ i |
+| mirana-104_sol-2 | mirana | 104_sol | kʰoóhí̵hpʰí nɯʔpa | kʰ oo h <s> i̵ </s> h pʰ i |
+| mirana-106_soplar-1 | mirana | 106_soplar | í̵patsʰɯ́ʔkʰɯ | <s> i̵ </s> p a tsʰ ɯ ʔ kʰ ɯ |
+| mirana-106_soplar-2 | mirana | 106_soplar | í̵pahtsʰó | <s> i̵ </s> p a h tsʰ o |
+| mirana-111_tierra-1 | mirana | 111_tierra | ííɲɯhi̵ | ii ɲ ɯ h <s> i̵ </s> |
+| mirana-114_tortugamotelo-1 | mirana | 114_tortugamotelo | kʰɯ́ɯ́mɯhi̵ | kʰ ɯɯ m ɯ h <s> i̵ </s> |
+| mirana-120_unagarra-1 | mirana | 120_unagarra | óhtsʰí̵kʷa mííʔo | o h tsʰ <s> i̵ </s> kʷ a |
+| mirana-123_ver-1 | mirana | 123_ver | i̵í̵tʰé | <s> i̵i̵ </s> tʰ e |
+| mirana-126_yuca-2 | mirana | 126_yuca | pʰi̵i̵kʰaá | pʰ <s> i̵i̵ </s> kʰ aa |
+| mirana-15_canoa-1 | mirana | 15_canoa | mi̵í̵ne | m <s> i̵i̵ </s> n e |
+| mirana-16_caribe-1 | mirana | 16_caribe | níhtʰʲahi̵ | n i h tʰʲ a h <s> i̵ </s> |
+| mirana-24_cinco-1 | mirana | 24_cinco | tsʰáʔohtsʰi̵ | tsʰ a ʔ o h tsʰ <s> i̵ </s> |
+| mirana-26_corona-1 | mirana | 26_corona | níkʷamí̵í̵ʔo | n i kʷ a m <s> i̵i̵ </s> ʔ o |
+| mirana-27_cuchillo-1 | mirana | 27_cuchillo | pí̵tóhokʷa | p <s> i̵ </s> t o h o kʷ a |
+| mirana-31_diente-1 | mirana | 31_diente | íʔkʷáhi̵í̵ | i ʔ kʷ a h <s> i̵i̵ </s> |
+| mirana-33_estera-1 | mirana | 33_estera | i̵ʔpotʰa | <s> i̵ </s> ʔ p o tʰ a |
+| mirana-34_estrella-1 | mirana | 34_estrella | mi̵í̵kʰɯ́ri̵kʷa | m <s> i̵i̵ </s> kʰ ɯ r <s> i̵ </s> kʷ a |
+| mirana-38_gente-1 | mirana | 38_gente | mi̵amɯìnaá | m <s> i̵ </s> a m ɯ i n aa |
+| mirana-39_guacamayo-1 | mirana | 39_guacamayo | í̵í̵βaá | <s> i̵i̵ </s> β aa |
+| mirana-43_hoja-1 | mirana | 43_hoja | ɯ́naʔáámi̵ | ɯ n a ʔ aa m <s> i̵ </s> |
+| mirana-43_hoja-2 | mirana | 43_hoja | í̵naʔáámi̵ | <s> i̵ </s> n a ʔ aa m <s> i̵ </s> |
+| mirana-44_hojadearbol-1 | mirana | 44_hojadearbol | ɯ́méʔeʔáámi̵ | ɯ m e ʔ e ʔ aa m <s> i̵ </s> |
+| mirana-53_lengua-1 | mirana | 53_lengua | ní̵í̵hi̵kʷa | n <s> i̵i̵ </s> h <s> i̵ </s> kʷ a |
+| mirana-53_lengua-2 | mirana | 53_lengua | í̵ʔní̵hi̵kʷat | <s> i̵ </s> ʔ n <s> i̵ </s> h <s> i̵ </s> kʷ a t |
+| mirana-58_mano-1 | mirana | 58_mano | óhtsʰi̵í̵ | o h tsʰ <s> i̵i̵ </s> |
+| mirana-58_mano-2 | mirana | 58_mano | íʔóhtsʰi̵í̵ | i ʔ o h tsʰ <s> i̵i̵ </s> |
+| mirana-59_mapana-2 | mirana | 59_mapana | tʰéétʰehi̵ | tʰ ee tʰ e h <s> i̵ </s> |
+| mirana-60_maridoesposo-2 | mirana | 60_maridoesposo | tʰahi̵ | tʰ a h <s> i̵ </s> |
+| mirana-62_maiz-1 | mirana | 62_maiz | ɯ́hi̵ʔo téβiríhkʰo | ɯ h <s> i̵ </s> ʔ o |
+| mirana-66_morir-1 | mirana | 66_morir | tsi̵hi̵βe | ts <s> i̵ </s> h <s> i̵ </s> β e |
+| mirana-68_niguapigue-1 | mirana | 68_niguapigue | níípʰahi̵ | n ii pʰ a h <s> i̵ </s> |
+| mirana-6_aji-1 | mirana | 6_aji | tí̵í̵ʔoɯ | t <s> i̵i̵ </s> ʔ o ɯ |
+| mirana-73_oreja-1 | mirana | 73_oreja | nɯ́ɯ́mi̵ʔo | n ɯɯ m <s> i̵ </s> ʔ o |
+| mirana-73_oreja-2 | mirana | 73_oreja | íɲɯ́ɯ́mi̵ʔo | i ɲ ɯɯ m <s> i̵ </s> ʔ o |
+| mirana-75_osohormiguero-1 | mirana | 75_osohormiguero | tʰʲoʔhi̵ | tʰʲ o ʔh <s> i̵ </s> |
+| mirana-81_payo-1 | mirana | 81_payo | pʰí̵í̵kʰahi̵ | pʰ <s> i̵i̵ </s> kʰ a h <s> i̵ </s> |
+| mirana-85_picaflorcolibri-1 | mirana | 85_picaflorcolibri | pʰáápi̵ʔo | pʰ aa p <s> i̵ </s> ʔ o |
+| mirana-89_pluma-1 | mirana | 89_pluma | í̵ʔhí̵ne | <s> i̵ </s> ʔh <s> i̵ </s> n e |
+| mirana-90_platano-1 | mirana | 90_platano | ɯ́hi̵ʔo | ɯ h <s> i̵ </s> ʔ o |
+| mirana-94_red-1 | mirana | 94_red | tsʰí̵nɯɯ́ | tsʰ <s> i̵ </s> n ɯɯ |
+| muinane-60_maridoesposo-1 | muinane | 60_maridoesposo | aixi̵ | a i x <s> i̵ </s> |
+| piratapuyo-104_sol-1 | piratapuyo | 104_sol | asĩ̵ deko kʰĩ̵dõ | a s <s> ĩ̵ </s> |
+| piratapuyo-10_caiman-1 | piratapuyo | 10_caiman | i̵so | <s> i̵ </s> s o |
+| piratapuyo-15_canoa-1 | piratapuyo | 15_canoa | juki̵sa | j u k <s> i̵ </s> s a |
+| piratapuyo-16_caribe-1 | piratapuyo | 16_caribe | bi̵ʔi̵ | b <s> i̵ </s> ʔ <s> i̵ </s> |
+| piratapuyo-17_casa-1 | piratapuyo | 17_casa | wi̵i̵ | w <s> i̵i̵ </s> |
+| piratapuyo-30_danta-1 | piratapuyo | 30_danta | weki̵ | w e k <s> i̵ </s> |
+| piratapuyo-35_flecha-1 | piratapuyo | 35_flecha | bi̵edi̵ | b <s> i̵ </s> e d <s> i̵ </s> |
+| piratapuyo-41_hamaca-1 | piratapuyo | 41_hamaca | pĩ̵dõ | p <s> ĩ̵ </s> d õ |
+| piratapuyo-48_isla-1 | piratapuyo | 48_isla | dĩ̵kĩ̵õ | d <s> ĩ̵ </s> k <s> ĩ̵ </s> õ |
+| piratapuyo-52_lechuzabuho-1 | piratapuyo | 52_lechuzabuho | i̵pi̵ poko | <s> i̵ </s> p <s> i̵ </s> |
+| piratapuyo-57_luna-1 | piratapuyo | 57_luna | asĩ̵ jãbĩ kʰĩ̵dõ | a s <s> ĩ̵ </s> |
+| piratapuyo-60_maridoesposo-1 | piratapuyo | 60_maridoesposo | bãdĩ̵dõ | b ã d <s> ĩ̵ </s> d õ |
+| piratapuyo-78_padre-1 | piratapuyo | 78_padre | paki̵ | p a k <s> i̵ </s> |
+| piratapuyo-86_piedra-1 | piratapuyo | 86_piedra | i̵tã | <s> i̵ </s> t ã |
+| piratapuyo-91_porramacana-1 | piratapuyo | 91_porramacana | juki̵ si | j u k <s> i̵ </s> |
+| piratapuyo-94_red-1 | piratapuyo | 94_red | wẽjẽkʰi̵ | w ẽ j ẽ kʰ <s> i̵ </s> |
+| piratapuyo-96_rodilla-1 | piratapuyo | 96_rodilla | di̵sepe kuri | d <s> i̵ </s> s e p e |
+| secoya-96_rodilla-1 | secoya | 96_rodilla | dĩ̵kasĩka | d <s> ĩ̵ </s> k a s ĩ k a |
+| tucano-92_pulga-1 | tucano | 92_pulga | dĩ̵ʔkõẽ́wĩ̵ | d <s> ĩ̵ </s> ʔ k õ ẽ w <s> ĩ̵ </s> |
+| waimaja-108_tambor-1 | waimaja | 108_tambor | jukí̵gi̵ toti | j u k <s> i̵ </s> g <s> i̵ </s> |
+| waimaja-128_arbol-1 | waimaja | 128_arbol | júkí̵gi̵ | j u k <s> i̵ </s> g <s> i̵ </s> |
+| waimaja-29_curandero-2 | waimaja | 29_curandero | bã́hĩgi̵ kũbũ | b ã h ĩ g <s> i̵ </s> |
+| waimaja-7_algodon-2 | waimaja | 7_algodon | ji̵tá | j <s> i̵ </s> t a |
+| yuruti-76_oir-1 | yuruti | 76_oir | tí̵o | t <s> i̵ </s> o |
 
 (100 rows)
 

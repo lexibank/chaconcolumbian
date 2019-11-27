@@ -8,9 +8,9 @@ This dataset is licensed under a GPL-3.0 license
 
 Available online at https://github.com/lexibank/chaconcolombian/
 
-Conceptlists in Concepticon:
-- [Chacon-2017-129](http://concepticon.clld.org/contributions/Chacon-2017-129)
 
+Conceptlists in Concepticon:
+- [Chacon-2017-129](https://concepticon.clld.org/contributions/Chacon-2017-129)
 ## Statistics
 
 
@@ -24,6 +24,7 @@ Conceptlists in Concepticon:
 - **Varieties:** 69
 - **Concepts:** 128
 - **Lexemes:** 9,030
+- **Sources:** 1
 - **Synonymy:** 1.14
 - **Cognacy:** 9,030 cognates in 2,600 cognate sets (1,294 singletons)
 - **Cognate Diversity:** 0.28
