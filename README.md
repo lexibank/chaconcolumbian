@@ -32,3 +32,11 @@ Conceptlists in Concepticon:
 - **Tokens:** 45,584
 - **Segments:** 134 (0 BIPA errors, 0 CTLS sound class errors, 134 CLTS modified)
 - **Inventory size (avg):** 30.96
+
+# Contributors
+
+Name | GitHub user | Role
+--- | --- | ---
+Johann-Mattis List | @LinguList | maintainer
+
+
