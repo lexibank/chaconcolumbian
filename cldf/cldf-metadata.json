@@ -11,14 +11,14 @@
     "dc:license": "http://www.opensource.org/licenses/GPL-3.0",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Arawakan and Tukanoan contacts in Northwest Amazonia prehistory",
+    "dc:title": "CLDF dataset derived from Chacon's Arawakan and Tukanoan contacts in Northwest Amazonia prehistory from 2017",
     "dcat:accessURL": "https://github.com/lexibank/chaconcolumbian",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/chaconcolumbian",
-            "dc:created": "v1.1-15-g4fba762"
+            "dc:created": "v1.1-16-ge0056c4"
         },
         {
             "rdf:type": "prov:Entity",
