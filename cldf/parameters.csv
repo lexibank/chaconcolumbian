@@ -93,7 +93,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Spanish,Category,Gloss_in_source
 92_pulga,pulga,232,FLEA,flea,cultural,PULGA_FLEA
 93_quebradacano,"quebrada, caño",,,stream,cultural,"QUEBRADA, CAÑO_STREAM"
 94_red,red,388,FISHNET,fish net,cultural,RED_FISH NET
-95_remo,remo,234,PADDLE,paddle,cultural,REMO_PADDLE
+95_remo,remo,3137,OAR,paddle,cultural,REMO_PADDLE
 96_rodilla,rodilla,1371,KNEE,knee,basic/cultural,RODILLA_KNEE
 97_rio,río,666,RIVER,river,cultural,RÍO_RIVER
 98_sal,sal,1274,SALT,salt,cultural,SAL_SALT

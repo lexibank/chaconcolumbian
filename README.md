@@ -1,4 +1,4 @@
-# Arawakan and Tukanoan contacts in Northwest Amazonia prehistory
+# CLDF dataset derived from Chacon's Arawakan and Tukanoan contacts in Northwest Amazonia prehistory from 2017
 
 Cite the source dataset as
 
