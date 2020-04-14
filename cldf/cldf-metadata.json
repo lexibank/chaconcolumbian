@@ -11,14 +11,14 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Chacon's \"Arawakan and Tukanoan contacts in Northwest Amazonia prehistory\" from 2017",
+    "dc:title": "CLDF dataset derived from Chacon's \"Annotated Swadesh Lists for Tukanoan Languages\" from 2017",
     "dcat:accessURL": "https://github.com/lexibank/chaconcolumbian",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/chaconcolumbian",
-            "dc:created": "v1.1-19-g00343b3"
+            "dc:created": "v1.1-21-g6feab5b"
         },
         {
             "rdf:type": "prov:Entity",
@@ -42,7 +42,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.1"
+            "dc:description": "3.8.2"
         },
         {
             "dc:title": "python-packages",
@@ -118,6 +118,14 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
                     }
                 ],
                 "foreignKeys": [

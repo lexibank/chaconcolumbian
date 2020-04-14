@@ -1,4 +1,4 @@
-# CLDF dataset derived from Chacon's "Arawakan and Tukanoan contacts in Northwest Amazonia prehistory" from 2017
+# CLDF dataset derived from Chacon's "Annotated Swadesh Lists for Tukanoan Languages" from 2017
 
 Cite the source dataset as
 
@@ -32,3 +32,15 @@ Conceptlists in Concepticon:
 - **Tokens:** 45,584
 - **Segments:** 134 (0 BIPA errors, 0 CTLS sound class errors, 134 CLTS modified)
 - **Inventory size (avg):** 30.96
+
+# Contributors
+
+Name                | GitHub user   | Description | Role
+---                 | ---           | --- | ---
+Johann-Mattis List  | @LinguList    | maintainer, patron | Author
+Tiago Tresoldi      | @tresoldi     | maintainer | Author
+Thiago Costa Chacon | @thiagochacon | maintainer | Author, DataCurator
+Christoph Rzymski   | @chrzyki      | maintainer | Author
+
+
+
