@@ -1,0 +1,38 @@
+{
+    "title": "CLDF dataset derived from Chacon's \"Annotated Swadesh Lists for Tukanoan Languages\" from 2017",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Johann-Mattis List"
+        },
+        {
+            "name": "Tiago Tresoldi"
+        },
+        {
+            "name": "Thiago Costa Chacon"
+        },
+        {
+            "name": "Christoph Rzymski"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Thiago Costa Chacon",
+            "type": "DataCurator"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Chacon, Thiago C. (2017): Arawakan and Tukanoan contacts in Northwest Amazonia prehistory. PAPIA 27(2). 237-265.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}
