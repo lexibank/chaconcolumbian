@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Chacon, Thiago C. (2017): Arawakan and Tukanoan contacts in Northwest Amazonia prehistory. PAPIA 27(2). 237-265.
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://github.com/lexibank/chaconcolombian/
 
