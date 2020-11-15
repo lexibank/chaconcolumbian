@@ -51,6 +51,11 @@ class Dataset(BaseDataset):
         # Hard-coded fixes to segment errors in raw source
         segments = {
             "#": "+",
+            "ks": "k s",
+            "ms": "m s",
+            "ᵑg": "ⁿg",
+            "bs": "b s",
+            "gs": "g s",
             "#h": "+ h",
             "#s": "+ s",
             "a:": "aː",
