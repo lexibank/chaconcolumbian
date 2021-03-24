@@ -37,10 +37,10 @@ Conceptlists in Concepticon:
 
 Name                | GitHub user   | Description | Role
 ---                 | ---           | --- | ---
-Johann-Mattis List  | @LinguList    | maintainer, patron | Author
-Tiago Tresoldi      | @tresoldi     | maintainer | Author
+Johann-Mattis List  | @LinguList    | maintainer, patron | Other
+Tiago Tresoldi      | @tresoldi     | maintainer | Other
 Thiago Costa Chacon | @thiagochacon | maintainer | Author, DataCurator
-Christoph Rzymski   | @chrzyki      | maintainer | Author
+Christoph Rzymski   | @chrzyki      | maintainer | Other
 
 
 

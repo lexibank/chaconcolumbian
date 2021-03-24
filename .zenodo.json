@@ -7,22 +7,25 @@
     ],
     "creators": [
         {
-            "name": "Johann-Mattis List"
-        },
-        {
-            "name": "Tiago Tresoldi"
-        },
-        {
             "name": "Thiago Costa Chacon"
-        },
-        {
-            "name": "Christoph Rzymski"
         }
     ],
     "contributors": [
         {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        },
+        {
             "name": "Thiago Costa Chacon",
             "type": "DataCurator"
+        },
+        {
+            "name": "Christoph Rzymski",
+            "type": "Other"
         }
     ],
     "communities": [

@@ -18,31 +18,31 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/chaconcolumbian",
-            "dc:created": "v1.1-25-gb0cc551"
+            "dc:created": "v1.1-27-g4dc3338"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog/",
             "dc:created": "v4.3"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-5-gaceeb4b"
+            "dc:created": "v2.4.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4-34-ga2b5dc6"
+            "dc:created": "v2.0.0"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.2"
+            "dc:description": "3.9.2"
         },
         {
             "dc:title": "python-packages",
