@@ -1,20 +1,18 @@
 import attr
 import lingpy
+import pylexibank
 from clldutils.misc import slug
 from clldutils.path import Path
-from pylexibank import Concept
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.util import progressbar
 
 
 @attr.s
-class CustomConcept(Concept):
+class CustomConcept(pylexibank.Concept):
     Spanish = attr.ib(default=None)
     Category = attr.ib(default=None)
     Gloss_in_source = attr.ib(default=None)
 
 
-class Dataset(BaseDataset):
+class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "chaconcolumbian"
     concept_class = CustomConcept
@@ -33,10 +31,7 @@ class Dataset(BaseDataset):
         # Write concepts
         concepts = {}
         for concept in self.conceptlists[0].concepts.values():
-            concept_cldf_id = "%s_%s" % (
-                concept.id.split("-")[-1],
-                slug(concept.english),
-            )
+            concept_cldf_id = "%s_%s" % (concept.id.split("-")[-1], slug(concept.english))
             args.writer.add_concept(
                 ID=concept_cldf_id,
                 Name=concept.english,
@@ -135,21 +130,17 @@ class Dataset(BaseDataset):
         }
 
         # write lexemes
-        for idx in progressbar(wl, desc="makecldf"):
+        for idx in pylexibank.progressbar(wl, desc="makecldf"):
             if wl[idx, "concept"]:
                 lex = args.writer.add_form_with_segments(
                     Language_ID=languages[wl[idx, "doculect"]],
                     Parameter_ID=concepts[wl[idx, "concept"]],
                     Value=wl[idx, "counterpart"],
                     Form=wl[idx, "counterpart"],
-                    Segments=" ".join(
-                        [segments.get(x, x) for x in wl[idx, "tokens"]]
-                    ).split(),
+                    Segments=" ".join([segments.get(x, x) for x in wl[idx, "tokens"]]).split(),
                     Source=["Huber1992"],
                 )
 
                 args.writer.add_cognate(
-                    lexeme=lex,
-                    Cognateset_ID=wl[idx, "cogid"],
-                    Source=["Chacon2017"],
+                    lexeme=lex, Cognateset_ID=wl[idx, "cogid"], Source=["Chacon2017"]
                 )
