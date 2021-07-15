@@ -7,24 +7,14 @@ with open("metadata.json", encoding="utf-8") as fp:
 
 
 setup(
-    name='lexibank_chaconcolumbian',
-    description=metadata['title'],
-    license=metadata.get('license', ''),
-    url=metadata.get('url', ''),
-    py_modules=['lexibank_chaconcolumbian'],
+    name="lexibank_chaconcolumbian",
+    description=metadata["title"],
+    license=metadata.get("license", ""),
+    url=metadata.get("url", ""),
+    py_modules=["lexibank_chaconcolumbian"],
     include_package_data=True,
     zip_safe=False,
-    entry_points={
-        'lexibank.dataset': [
-            'chaconcolumbian=lexibank_chaconcolumbian:Dataset',
-        ]
-    },
-    install_requires=[
-        'pylexibank>=3.0',
-    ],
-    extras_require={
-        'test': [
-            'pytest-cldf',
-        ],
-    },
+    entry_points={"lexibank.dataset": ["chaconcolumbian=lexibank_chaconcolumbian:Dataset"]},
+    install_requires=["pylexibank>=3.0"],
+    extras_require={"test": ["pytest-cldf"]},
 )
