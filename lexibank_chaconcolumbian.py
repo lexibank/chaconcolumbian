@@ -43,10 +43,10 @@ class Dataset(BaseDataset):
                 Concepticon_ID=concept.concepticon_id,
                 Concepticon_Gloss=concept.concepticon_gloss,
                 Spanish=concept.attributes["spanish"],
-                Gloss_in_source=concept.attributes["gloss_in_source"],
+                Gloss_in_source=", ".join(concept.attributes["lexibank_gloss"]),
                 Category=concept.attributes["category"],
             )
-            concepts[concept.attributes["gloss_in_source"]] = concept_cldf_id
+            concepts[", ".join(concept.attributes["lexibank_gloss"])] = concept_cldf_id
 
         # Hard-coded fixes to segment errors in raw source
         segments = {
