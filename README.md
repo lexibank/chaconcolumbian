@@ -14,7 +14,7 @@ If you use these data please cite
 
 This dataset is licensed under a CC-BY-4.0 license
 
-Available online at https://github.com/lexibank/chaconcolombian/
+Available online at https://github.com/lexibank/chaconcolumbian
 
 
 Conceptlists in Concepticon:

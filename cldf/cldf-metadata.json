@@ -6,7 +6,7 @@
     "dc:format": [
         "http://concepticon.clld.org/contributions/Chacon-2017-129"
     ],
-    "dc:identifier": "https://github.com/lexibank/chaconcolombian/",
+    "dc:identifier": "https://github.com/lexibank/chaconcolumbian",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/chaconcolumbian",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1-33-g555a2ee",
+            "dc:created": "v1.1-35-g3ac9ec9",
             "dc:title": "Repository"
         },
         {
