@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/chaconcolumbian",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1-32-g528a626",
+            "dc:created": "v1.1-33-g555a2ee",
             "dc:title": "Repository"
         },
         {
@@ -29,7 +29,7 @@
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.4.0-237-gf65e4b1",
+            "dc:created": "v2.5.0",
             "dc:title": "Concepticon"
         },
         {
