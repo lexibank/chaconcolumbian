@@ -12,19 +12,23 @@
     ],
     "contributors": [
         {
-            "name": "Johann-Mattis List",
-            "type": "Other"
-        },
-        {
-            "name": "Tiago Tresoldi",
-            "type": "Other"
-        },
-        {
             "name": "Thiago Costa Chacon",
             "type": "DataCurator"
         },
         {
+            "name": "Johann-Mattis List",
+            "type": "Editor"
+        },
+        {
             "name": "Christoph Rzymski",
+            "type": "Editor"
+        },
+        {
+            "name": "Frederic Blum",
+            "type": "Editor"
+        },
+        {
+            "name": "Tiago Tresoldi",
             "type": "Other"
         }
     ],
