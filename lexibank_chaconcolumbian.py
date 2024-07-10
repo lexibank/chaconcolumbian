@@ -95,7 +95,7 @@ class Dataset(pylexibank.Dataset):
             "nh": "n̥",
             "nn": "nː",
             "ns": "n s",
-            "nss": "n + sː",
+            "nss": "n + s",
             "ŋh": "ŋ h",
             "ŋŋ": "ŋː",
             "õ:": "oː",

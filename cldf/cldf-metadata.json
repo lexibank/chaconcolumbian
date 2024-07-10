@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/chaconcolumbian",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.0",
+            "dc:created": "v2.0-1-g32b2467",
             "dc:title": "Repository"
         },
         {
