@@ -2,8 +2,8 @@
 
 Name                | GitHub user   | Description | Role
 ---                 | ---           | --- | ---
-Johann-Mattis List  | @LinguList    | maintainer, patron | Other
-Tiago Tresoldi      | @tresoldi     | maintainer | Other
 Thiago Costa Chacon | @thiagochacon | maintainer | Author, DataCurator
-Christoph Rzymski   | @chrzyki      | maintainer | Other
-
+Johann-Mattis List  | @LinguList    | maintainer, patron | Editor
+Christoph Rzymski   | @chrzyki      | maintainer | Editor
+Frederic Blum   | @FredericBlum      | maintainer | Editor
+Tiago Tresoldi      | @tresoldi     | digitization | Other

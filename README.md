@@ -29,8 +29,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 69
-- **Concepts:** 128
+- **Varieties:** 69 (linked to 65 different Glottocodes)
+- **Concepts:** 128 (linked to 125 different Concepticon concept sets)
 - **Lexemes:** 9,030
 - **Sources:** 1
 - **Synonymy:** 1.14
@@ -38,18 +38,18 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.27
 - **Invalid lexemes:** 0
 - **Tokens:** 45,590
-- **Segments:** 130 (0 BIPA errors, 0 CTLS sound class errors, 130 CLTS modified)
+- **Segments:** 130 (0 BIPA errors, 0 CLTS sound class errors, 130 CLTS modified)
 - **Inventory size (avg):** 30.87
 
 # Contributors
 
 Name                | GitHub user   | Description | Role
 ---                 | ---           | --- | ---
-Johann-Mattis List  | @LinguList    | maintainer, patron | Other
-Tiago Tresoldi      | @tresoldi     | maintainer | Other
 Thiago Costa Chacon | @thiagochacon | maintainer | Author, DataCurator
-Christoph Rzymski   | @chrzyki      | maintainer | Other
-
+Johann-Mattis List  | @LinguList    | maintainer, patron | Editor
+Christoph Rzymski   | @chrzyki      | maintainer | Editor
+Frederic Blum   | @FredericBlum      | maintainer | Editor
+Tiago Tresoldi      | @tresoldi     | digitization | Other
 
 
 
