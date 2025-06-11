@@ -137,6 +137,7 @@ class Dataset(pylexibank.Dataset):
                     Form=wl[idx, "counterpart"],
                     Segments=" ".join([segments.get(x, x) for x in wl[idx, "tokens"]]).split(),
                     Source=["Huber1992"],
+                    Cognacy=wl[idx, "cogid"]
                 )
 
                 args.writer.add_cognate(

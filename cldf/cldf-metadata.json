@@ -17,13 +17,13 @@
         {
             "rdf:about": "https://github.com/lexibank/chaconcolumbian",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.0-1-g32b2467",
+            "dc:created": "v2.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.0",
+            "dc:created": "v5.1",
             "dc:title": "Glottolog"
         },
         {
@@ -35,7 +35,7 @@
         {
             "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.3.0",
+            "dc:created": "v2.3.0-4-g824176a",
             "dc:title": "CLTS"
         }
     ],
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.12.4"
+            "dc:description": "3.13.1"
         },
         {
             "dc:title": "python-packages",
